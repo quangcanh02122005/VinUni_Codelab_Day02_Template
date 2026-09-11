@@ -63,8 +63,7 @@ Hãy sử dụng **4 Lenses** dưới đây để quét qua hoạt động vận
 ### 📝 List bài toán của tôi:
 | # | Subsidiary (VinFast/Xanh SM...) | Lens | Mô tả ngắn bài toán |
 |---|----------------------------------|------|---------------------|
-| 1 |Vinfast| Tốn thời gian (Time-consuming)|Kiểm tra và dịch thuật tài liệu kỹ thuật linh kiện nhập khẩu: Kỹ sư phải đọc, dịch và đối chiếu thủ công hàng nghìn trang tài liệu hướng dẫn kỹ thuật từ nhà cung cấp quốc tế sang tiếng Việt.
-Tổn thất ước tính: Mất trung bình 300 - 400 giờ công/tháng cho mỗi dòng xe mới, làm chậm tiến độ tích hợp linh kiện và đưa sản phẩm ra thị trường. |
+| 1 |Vinfast| Tốn thời gian (Time-consuming)|Kiểm tra và dịch thuật tài liệu kỹ thuật linh kiện nhập khẩu: Kỹ sư phải đọc, dịch và đối chiếu thủ công hàng nghìn trang tài liệu hướng dẫn kỹ thuật từ nhà cung cấp quốc tế sang tiếng Việt.Tổn thất ước tính: Mất trung bình 300 - 400 giờ công/tháng cho mỗi dòng xe mới, làm chậm tiến độ tích hợp linh kiện và đưa sản phẩm ra thị trường. |
 | 2 |Vinfast|Lặp lại (Repetitive) |Xử lý hồ sơ bảo hành và yêu cầu bồi hoàn phụ tùng đại lý: Nhân viên hậu mãi phải kiểm tra, đối chiếu hình ảnh lỗi linh kiện gửi về từ hàng trăm đại lý với chính sách bảo hành phức tạp.Tổn thất ước tính: Tỷ lệ sai sót xử lý thủ công đạt 12% - 15%, dẫn đến việc chi trả bồi hoàn sai hàng trăm triệu đồng mỗi quý và khiến thời gian chờ duyệt hồ sơ kéo dài 3 - 5 ngày/vụ.|
 | 3 |Vinfast|Pain từ người khác (Stakeholder Pain) |Lên lịch bảo dưỡng định kỳ và điều phối phụ tùng tồn kho: Xưởng dịch vụ thường xuyên bị động do khách hàng đến quá đông hoặc thiếu phụ tùng thay thế đúng chủng loại, gây phàn nàn lớn từ chủ xe.
 Tổn thất ước tính: Công suất xưởng bị thất thoát khoảng 20% do thời gian chết của thợ máy chờ linh kiện và sự không hài lòng của khách hàng|
