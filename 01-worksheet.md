@@ -64,8 +64,8 @@ Hãy sử dụng **4 Lenses** dưới đây để quét qua hoạt động vận
 | # | Subsidiary | Lens | Mô tả ngắn bài toán |
 |---|----------------------------------|------|---------------------|
 | 1 |**Vinmec** |Repetitive + Stakeholder Pain |Bệnh nhân khám bệnh nhiều lần nên có nhiêu trùng lặp và thay đổi, bác sĩ khó theo dõi và so sánh lịch sử các lần khám bệnh. Cần liên kết hồ sơ bệnh nhân và chia ra các mục cần chú ý(dị ứng, tiền sử, chuyển biến bệnh)
-| 2 |**Vinhomes** | Phân loại & Điều hướng phản ánh cư dân | Lặp lại | Phân loại tự động các khiếu nại gửi qua App Vinhomes Resident đến đúng ban quản lý từng tòa nhà. 
-| 3 | **Xanh SM** | Điều vận thông minh (Smart Dispatching) | Tốn thời gian | Tối ưu hóa điểm đón taxi điện Xanh SM dựa trên phân tích ngôn ngữ tự nhiên từ tin nhắn tài xế và tọa độ GPS thực tế.
+| 2 |**Vinhomes** | Phân loại & Điều hướng phản ánh cư dân | Phân loại tự động các khiếu nại gửi qua App Vinhomes Resident đến đúng ban quản lý từng tòa nhà. 
+| 3 | **Xanh SM** | Tốn thời gian | Tối ưu hóa điểm đón taxi điện Xanh SM dựa trên phân tích ngôn ngữ tự nhiên từ tin nhắn tài xế và tọa độ GPS thực tế.
 | 4 |**Vinmec**  |Repetitive| Soạn tóm tắt sau khám: Sau mỗi lượt khám, nhân viên phải tổng hợp thông tin từ nhiều trường dữ liệu thành nội dung dễ hiểu cho bệnh nhân. AI có thể tạo bản nháp từ dữ liệu đã có để nhân viên kiểm tra trước khi gửi.|
 | 5 |**Vinpearl/VinWonders**|Repetitive + Stakeholder Pain|Phân tích phản ánh về tiện ích: Gom nhóm phản ánh về các tiện ích và dịch vụ để xác định vấn đề lặp lại và ưu tiên xử lý. |
 
