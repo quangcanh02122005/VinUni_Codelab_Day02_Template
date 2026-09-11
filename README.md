@@ -119,7 +119,7 @@ git clone <URL_REPOSITORY_CUA_NHOM>
 cd VinUni_Codelab_Day02
 
 # Tạo và chuyển sang branch cá nhân (Ví dụ: nguyenvana hoặc dev-student1)
-git checkout -b <ten-cua-ban>
+git checkout -b <Duongthihongvien>
 ```
 
 ### 💻 Bước 3: Làm bài & Push lên Branch cá nhân
